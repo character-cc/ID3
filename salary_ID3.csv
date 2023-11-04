@@ -1,0 +1,597 @@
+experience_level,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+MI,Data Scientist,79833,Europe,0,Europe,L
+SE,Machine Learning Engineer,260000,Asia,0,Asia,S
+SE,Data Engineer,109024,Europe,50,Europe,M
+MI,Data Analyst,20000,North America,0,North America,S
+SE,Machine Learning Engineer,150000,North America,50,North America,L
+EN,Data Analyst,72000,North America,100,North America,L
+SE,Manager,190000,North America,100,North America,S
+MI,Data Scientist,35735,Europe,50,Europe,L
+MI,Data Analyst,135000,North America,100,North America,L
+SE,Manager,125000,Oceania,50,Oceania,S
+EN,Data Scientist,51321,Europe,0,Europe,S
+MI,Data Scientist,40481,Asia,0,Asia,L
+EN,Data Scientist,39916,Europe,0,Europe,M
+MI,Manager,87000,North America,100,North America,L
+MI,Data Analyst,85000,North America,100,North America,L
+MI,Data Analyst,8000,Asia,50,Asia,L
+EN,Data Engineer,41689,Asia,100,Asia,S
+SE,Data Engineer,114047,Europe,100,Europe,S
+EN,Data Scientist,5707,Asia,50,Asia,M
+MI,Manager,56000,Europe,100,North America,M
+MI,Machine Learning Engineer,43331,Asia,0,Asia,M
+MI,Data Analyst,6072,Asia,100,Asia,L
+SE,Data Engineer,47899,Europe,50,Europe,L
+MI,Data Analyst,98000,North America,0,North America,M
+MI,Manager,115000,Asia,0,Asia,L
+EN,Research Scientist,42000,Europe,50,Europe,L
+SE,Data Engineer,33511,North America,0,North America,S
+EN,Data Analyst,100000,North America,100,North America,L
+SE,Manager,117104,North America,50,North America,L
+MI,Manager,59303,Europe,100,Europe,S
+EN,Data Engineer,70000,North America,100,North America,L
+SE,Data Scientist,68428,Europe,100,North America,L
+MI,Data Analyst,46759,Europe,50,Europe,L
+MI,Data Engineer,74130,Europe,50,Europe,L
+MI,Data Scientist,103000,North America,100,North America,L
+EN,Machine Learning Engineer,250000,North America,50,North America,L
+EN,Data Analyst,10000,Africa,100,Africa,S
+EN,Machine Learning Engineer,138000,North America,100,North America,S
+MI,Data Scientist,45760,Asia,100,North America,S
+EX,Manager,79833,Europe,50,Europe,L
+MI,Machine Learning Engineer,50180,Europe,0,Europe,M
+MI,Data Engineer,106000,North America,100,North America,L
+MI,Data Engineer,112872,Europe,50,Europe,L
+EN,Machine Learning Engineer,15966,Europe,100,Europe,S
+MI,Data Scientist,76958,Europe,100,Europe,S
+SE,Data Engineer,188000,North America,100,North America,L
+MI,Data Scientist,105000,North America,100,North America,L
+MI,Data Engineer,70139,Europe,50,Europe,L
+EN,Data Analyst,6072,Asia,0,Asia,S
+EN,Data Analyst,91000,North America,100,North America,L
+EN,Research Scientist,45896,Europe,50,Europe,S
+EN,Data Engineer,54742,Asia,100,Europe,L
+SE,Computer Vision,60000,Europe,100,North America,S
+SE,Data Scientist,148261,Europe,100,Europe,M
+MI,Data Scientist,38776,Europe,100,Europe,M
+MI,Data Scientist,118000,North America,100,North America,M
+SE,Data Scientist,120000,North America,50,North America,L
+MI,Data Scientist,138350,North America,100,North America,M
+MI,Data Engineer,110000,North America,100,North America,L
+MI,Data Engineer,130800,Europe,100,North America,M
+EN,Data Scientist,21669,Europe,50,Europe,S
+SE,Machine Learning Engineer,45618,Europe,100,Europe,S
+EN,Data Scientist,62726,Europe,50,Europe,S
+EN,Data Scientist,49268,Europe,0,Europe,S
+SE,Manager,190200,North America,100,North America,M
+EN,Data Scientist,105000,North America,100,North America,S
+SE,Data Scientist,91237,Europe,0,Europe,S
+MI,Data Scientist,62726,Europe,50,Europe,S
+MI,Data Scientist,42197,Europe,50,Europe,S
+EN,Research Scientist,82528,Europe,50,Europe,L
+EX,Data Analyst,150000,Asia,100,North America,L
+EX,Manager,235000,North America,100,North America,L
+SE,Data Scientist,53192,Europe,50,Europe,L
+MI,Data Analyst,100000,North America,100,North America,M
+MI,Computer Vision,5409,Asia,50,Asia,M
+MI,Machine Learning Engineer,270000,North America,100,North America,L
+EN,Data Analyst,80000,North America,100,North America,M
+SE,Data Engineer,79197,Europe,100,Europe,L
+MI,Data Engineer,140000,North America,100,North America,L
+MI,Data Scientist,54238,Europe,50,North America,L
+MI,Machine Learning Engineer,47282,Europe,100,Europe,S
+EX,Manager,153667,Europe,100,Europe,L
+MI,Data Engineer,28476,Europe,100,Europe,L
+EN,Data Analyst,59102,Europe,50,Europe,M
+MI,Data Engineer,110000,North America,100,North America,L
+SE,Manager,170000,North America,100,North America,L
+SE,Data Analyst,80000,Europe,100,North America,S
+SE,Data Analyst,88654,Europe,100,Europe,L
+EN,Data Scientist,76833,Europe,100,Europe,S
+MI,Manager,19609,Asia,100,Asia,L
+SE,Manager,276000,North America,0,North America,L
+EN,Data Scientist,29751,Asia,50,Asia,L
+MI,Data Engineer,89294,Asia,50,Asia,L
+EN,Research Scientist,12000,South America,100,North America,S
+EN,Computer Vision,70000,North America,100,North America,M
+MI,Computer Vision,95746,Europe,100,North America,S
+MI,Data Analyst,75000,North America,0,North America,L
+SE,Data Engineer,150000,North America,100,North America,L
+MI,Data Analyst,36259,Europe,50,North America,L
+MI,Data Analyst,62000,North America,0,North America,L
+MI,Data Scientist,73000,North America,0,North America,L
+MI,Data Analyst,51519,Europe,50,Europe,L
+MI,Research Scientist,187442,North America,100,North America,L
+SE,Data Engineer,115000,North America,100,North America,S
+SE,Data Engineer,150000,North America,100,North America,M
+EN,Data Engineer,30428,Asia,100,Asia,L
+SE,Machine Learning Engineer,94564,Europe,50,Europe,L
+SE,Manager,113476,Europe,100,Europe,M
+SE,Manager,103160,Europe,100,Europe,S
+EN,Research Scientist,12000,Asia,100,North America,M
+MI,Data Engineer,45391,Europe,100,Europe,L
+EN,Machine Learning Engineer,225000,North America,100,North America,L
+MI,Data Scientist,50000,Africa,100,Africa,L
+MI,Data Scientist,40189,Europe,100,Europe,M
+EN,Data Analyst,90000,North America,100,North America,S
+MI,Data Engineer,200000,North America,100,North America,L
+MI,Data Engineer,60000,Europe,50,Europe,M
+SE,Data Engineer,200000,North America,100,North America,M
+EN,Data Analyst,50000,North America,100,North America,M
+EN,Data Scientist,110037,Europe,0,Europe,L
+EN,Data Analyst,10354,Europe,50,Europe,M
+MI,Data Scientist,151000,North America,100,North America,L
+SE,Machine Learning Engineer,120000,North America,50,North America,S
+MI,Data Scientist,9466,Asia,0,Asia,S
+EN,Machine Learning Engineer,20000,Asia,100,Asia,S
+SE,Manager,40570,Asia,50,Asia,L
+EN,Machine Learning Engineer,100000,Asia,50,Asia,S
+EN,Data Scientist,49646,Europe,50,Europe,M
+MI,Machine Learning Engineer,38400,Asia,100,North America,M
+SE,Computer Vision,24000,South America,100,South America,M
+EN,Data Scientist,100000,North America,0,North America,S
+MI,Data Analyst,90000,North America,100,North America,M
+MI,Machine Learning Engineer,63711,Asia,50,Asia,S
+MI,Machine Learning Engineer,77364,Asia,50,Asia,S
+SE,Data Scientist,220000,North America,0,North America,L
+EN,Data Scientist,80000,North America,100,North America,M
+MI,Data Analyst,135000,North America,100,North America,L
+SE,Manager,240000,North America,0,North America,L
+SE,Manager,150000,North America,0,North America,L
+MI,Data Scientist,82500,North America,100,North America,S
+MI,Data Engineer,100000,North America,100,North America,L
+SE,Machine Learning Engineer,82744,Europe,50,Europe,M
+MI,Research Scientist,62649,Europe,50,Europe,M
+MI,Data Engineer,90000,North America,100,North America,L
+SE,Manager,153000,North America,100,North America,L
+SE,Data Engineer,160000,South America,100,North America,S
+SE,Manager,168000,Asia,0,Asia,S
+MI,Data Scientist,150000,North America,100,North America,M
+MI,Data Scientist,75774,North America,100,North America,L
+EN,Data Scientist,13400,Europe,100,Europe,L
+SE,Manager,144000,North America,100,North America,L
+SE,Data Scientist,127221,North America,50,North America,L
+MI,Data Scientist,119059,Asia,100,Asia,M
+SE,Manager,120000,North America,100,North America,M
+EN,Machine Learning Engineer,125000,North America,100,North America,S
+EX,Manager,230000,Europe,50,Europe,L
+EX,Manager,85000,Europe,0,Europe,M
+MI,Data Engineer,28369,Europe,50,Europe,L
+EN,Data Scientist,63831,Europe,50,Europe,L
+EX,Manager,130026,Europe,50,Europe,M
+SE,Data Scientist,165000,North America,100,North America,L
+EN,Data Engineer,80000,North America,100,North America,L
+EX,Manager,250000,North America,0,North America,L
+EN,Data Analyst,55000,North America,50,North America,S
+MI,Data Engineer,150000,North America,100,North America,L
+MI,Data Engineer,170000,North America,100,North America,L
+MI,Data Engineer,82528,Europe,100,Europe,L
+EN,Data Analyst,60000,North America,100,North America,S
+SE,Data Scientist,235000,North America,100,North America,L
+SE,Research Scientist,60757,Europe,50,Europe,L
+SE,Manager,174000,North America,100,North America,L
+MI,Data Scientist,40038,South America,100,South America,L
+EN,Machine Learning Engineer,81000,North America,50,North America,S
+MI,Data Scientist,5679,Asia,100,North America,S
+MI,Data Engineer,22611,Asia,0,Asia,L
+MI,Data Scientist,90734,Europe,50,Europe,L
+MI,Data Engineer,26005,Europe,0,North America,L
+SE,Data Analyst,61896,Europe,50,Europe,L
+MI,Machine Learning Engineer,12000,Asia,50,Asia,M
+MI,Data Engineer,4000,Asia,100,Asia,M
+SE,Data Engineer,50000,Asia,100,Europe,M
+EX,Data Scientist,69741,Europe,100,Europe,S
+SE,Data Engineer,76833,Europe,50,Europe,S
+MI,Machine Learning Engineer,74000,Asia,50,Asia,S
+SE,Manager,152000,North America,100,Europe,L
+EN,Machine Learning Engineer,21844,South America,50,South America,M
+MI,Data Engineer,18000,Europe,0,Europe,S
+SE,Manager,174000,North America,100,North America,L
+SE,Research Scientist,96113,North America,50,North America,L
+MI,Data Scientist,147000,North America,50,North America,L
+EN,Data Analyst,9272,Africa,100,Africa,S
+SE,Machine Learning Engineer,24342,Asia,100,Asia,L
+SE,Manager,54094,Asia,50,North America,L
+EN,Data Scientist,90000,North America,100,North America,S
+MI,Data Scientist,61467,Europe,50,Europe,M
+SE,Machine Learning Engineer,195000,North America,100,North America,M
+MI,Data Scientist,37825,Europe,100,Europe,L
+SE,Research Scientist,50000,Europe,100,North America,S
+MI,Data Scientist,160000,North America,100,North America,L
+MI,Data Scientist,12901,South America,0,South America,S
+SE,Machine Learning Engineer,200000,North America,100,North America,L
+SE,Data Engineer,165000,North America,0,North America,M
+MI,Data Engineer,20000,Europe,0,North America,L
+SE,Manager,120000,North America,0,North America,L
+MI,Machine Learning Engineer,24823,Europe,50,Europe,L
+MI,Research Scientist,56738,Europe,50,Europe,S
+MI,Data Engineer,66022,Asia,50,Europe,S
+EN,Data Engineer,5882,Asia,0,Europe,L
+EN,Machine Learning Engineer,24823,Europe,50,Europe,M
+SE,Data Engineer,185000,North America,100,North America,L
+EN,Computer Vision,28609,Europe,50,Europe,S
+MI,Data Scientist,90734,Europe,50,Europe,L
+MI,Machine Learning Engineer,88654,Europe,100,Europe,M
+SE,Manager,140000,North America,100,North America,L
+MI,Machine Learning Engineer,46597,Europe,100,Europe,L
+MI,Data Scientist,116914,Europe,50,Europe,L
+MI,Data Scientist,33808,Asia,0,Asia,M
+MI,Data Scientist,56256,Europe,50,Europe,L
+SE,Machine Learning Engineer,225000,North America,100,North America,L
+SE,Data Scientist,87738,North America,100,North America,S
+MI,Data Scientist,88654,Europe,50,Europe,L
+SE,Data Scientist,135000,North America,0,North America,L
+SE,Data Analyst,71786,North America,100,North America,M
+EN,Data Engineer,16228,Asia,100,Asia,L
+SE,Machine Learning Engineer,256000,North America,100,North America,S
+SE,Manager,200000,North America,100,North America,L
+SE,Data Analyst,200000,North America,100,North America,L
+MI,Data Engineer,180000,North America,100,North America,L
+MI,Manager,110000,North America,0,North America,S
+MI,Research Scientist,63810,North America,100,North America,M
+MI,Data Scientist,46809,Europe,100,Europe,M
+EN,Data Scientist,4000,Asia,0,Asia,M
+EN,Data Engineer,21637,Asia,50,Asia,M
+SE,Data Scientist,103691,North America,100,North America,L
+MI,Data Analyst,80000,North America,100,North America,L
+MI,Data Engineer,110000,North America,100,North America,L
+SE,Data Scientist,165000,North America,100,North America,L
+EN,Research Scientist,18053,Asia,100,North America,S
+MI,Data Engineer,72212,Europe,50,Europe,L
+EN,Data Scientist,36643,Europe,50,Europe,L
+MI,Data Engineer,12103,Asia,0,Asia,M
+SE,Data Engineer,96282,Europe,50,Europe,L
+SE,Data Analyst,170000,North America,100,North America,M
+MI,Data Scientist,115000,North America,50,North America,L
+EN,Data Scientist,90000,North America,100,North America,S
+EN,Data Scientist,28399,Asia,100,Asia,M
+MI,Data Analyst,93000,North America,100,North America,L
+SE,Data Engineer,99703,North America,50,North America,M
+MI,Data Engineer,200000,North America,100,North America,L
+SE,Data Scientist,173762,Europe,100,Europe,M
+SE,Machine Learning Engineer,185000,North America,50,North America,L
+EX,Manager,141846,Europe,0,Europe,L
+MI,Data Scientist,130000,North America,50,North America,L
+SE,Data Analyst,63831,Europe,50,Europe,L
+MI,Data Scientist,16904,Asia,100,Asia,S
+SE,Machine Learning Engineer,66265,Asia,0,Asia,L
+MI,Data Scientist,25532,Europe,100,Europe,S
+SE,Manager,160000,North America,50,North America,S
+MI,Data Engineer,93150,North America,0,North America,M
+MI,Data Engineer,111775,North America,0,North America,M
+MI,Data Engineer,28016,Asia,100,Asia,M
+EN,Data Engineer,65013,Europe,50,Europe,M
+EN,Data Engineer,72500,North America,100,North America,L
+SE,Computer Vision,18907,South America,0,South America,M
+EN,Data Scientist,76833,Europe,0,Europe,L
+EN,Machine Learning Engineer,85000,Europe,100,Europe,S
+SE,Data Scientist,77684,Europe,50,Europe,M
+EN,Data Scientist,100000,North America,100,North America,M
+EN,Data Scientist,58000,North America,50,North America,L
+SE,Research Scientist,55000,Europe,100,Europe,L
+SE,Data Scientist,20171,Asia,50,Asia,L
+EN,Data Analyst,59102,Europe,100,Europe,L
+MI,Data Engineer,112000,North America,100,North America,L
+EN,Research Scientist,100000,Europe,0,Asia,L
+MI,Data Engineer,69741,Europe,100,Europe,L
+SE,Data Scientist,105000,North America,100,North America,M
+MI,Research Scientist,69999,Europe,50,Europe,L
+SE,Manager,94665,Asia,50,Asia,L
+SE,Manager,102839,Europe,100,Europe,L
+MI,Data Scientist,109000,North America,50,North America,L
+MI,Machine Learning Engineer,51064,Europe,50,Europe,L
+SE,Data Engineer,135000,North America,100,North America,M
+SE,Data Analyst,155000,North America,100,North America,M
+SE,Data Analyst,120600,North America,100,North America,M
+MI,Data Scientist,130000,North America,0,North America,M
+MI,Data Scientist,90000,North America,0,North America,M
+MI,Data Engineer,170000,North America,100,North America,M
+MI,Data Engineer,150000,North America,100,North America,M
+SE,Data Analyst,102100,North America,100,North America,M
+SE,Data Analyst,84900,North America,100,North America,M
+SE,Data Scientist,136620,North America,100,North America,M
+SE,Data Scientist,99360,North America,100,North America,M
+SE,Data Scientist,117789,Europe,0,Europe,M
+SE,Data Scientist,104702,Europe,0,Europe,M
+SE,Data Scientist,146000,North America,100,North America,M
+SE,Data Scientist,123000,North America,100,North America,M
+EN,Data Engineer,52351,Europe,100,Europe,M
+SE,Data Analyst,99000,North America,0,North America,M
+SE,Data Analyst,116000,North America,0,North America,M
+MI,Data Analyst,106260,North America,0,North America,M
+MI,Data Analyst,126500,North America,0,North America,M
+EX,Data Engineer,242000,North America,100,North America,M
+EX,Data Engineer,200000,North America,100,North America,M
+MI,Data Scientist,65438,Europe,0,Europe,M
+MI,Data Scientist,39263,Europe,0,Europe,M
+MI,Data Engineer,78526,Europe,0,Europe,M
+MI,Data Engineer,52351,Europe,0,Europe,M
+SE,Data Scientist,165220,North America,100,North America,M
+EN,Data Engineer,45807,Europe,100,Europe,M
+SE,Data Scientist,120160,North America,100,North America,M
+SE,Data Analyst,90320,North America,100,North America,M
+SE,Data Engineer,181940,North America,0,North America,M
+SE,Data Engineer,132320,North America,0,North America,M
+SE,Data Engineer,220110,North America,0,North America,M
+SE,Data Engineer,160080,North America,0,North America,M
+SE,Data Scientist,180000,North America,0,North America,L
+SE,Data Scientist,120000,North America,0,North America,L
+SE,Data Analyst,124190,North America,100,North America,M
+EX,Data Analyst,130000,North America,100,North America,M
+EX,Data Analyst,110000,North America,100,North America,M
+SE,Data Analyst,170000,North America,100,North America,M
+MI,Data Analyst,115500,North America,100,North America,M
+SE,Data Analyst,112900,North America,100,North America,M
+SE,Data Analyst,90320,North America,100,North America,M
+SE,Data Analyst,112900,North America,100,North America,M
+SE,Data Analyst,90320,North America,100,North America,M
+SE,Data Engineer,165400,North America,100,North America,M
+SE,Data Engineer,132320,North America,100,North America,M
+MI,Data Analyst,167000,North America,100,North America,M
+SE,Data Engineer,243900,North America,100,North America,M
+SE,Data Analyst,136600,North America,100,North America,M
+SE,Data Analyst,109280,North America,100,North America,M
+SE,Data Engineer,128875,North America,100,North America,M
+SE,Data Engineer,93700,North America,100,North America,M
+EX,Manager,224000,North America,100,North America,M
+EX,Manager,167875,North America,100,North America,M
+EX,Data Engineer,175000,North America,100,North America,M
+SE,Data Engineer,156600,North America,100,North America,M
+SE,Data Engineer,108800,North America,0,North America,M
+SE,Data Scientist,95550,North America,0,North America,M
+SE,Data Engineer,113000,North America,0,North America,L
+SE,Data Analyst,135000,North America,100,North America,M
+SE,Manager,161342,North America,100,North America,M
+SE,Manager,137141,North America,100,North America,M
+SE,Data Scientist,167000,North America,100,North America,M
+SE,Data Scientist,123000,North America,100,North America,M
+SE,Data Engineer,78526,Europe,0,Europe,M
+SE,Data Engineer,65438,Europe,0,Europe,M
+SE,Data Scientist,150000,North America,0,North America,M
+SE,Data Scientist,211500,North America,100,North America,M
+SE,Data Engineer,192400,North America,100,North America,M
+SE,Data Engineer,90700,North America,100,North America,M
+SE,Data Analyst,130000,North America,100,North America,M
+SE,Data Analyst,61300,North America,100,North America,M
+SE,Data Analyst,130000,North America,100,North America,M
+SE,Data Analyst,61300,North America,100,North America,M
+SE,Data Engineer,160000,North America,0,North America,L
+SE,Data Scientist,138600,North America,100,North America,M
+SE,Data Engineer,136000,North America,0,North America,M
+MI,Data Analyst,58000,North America,0,North America,S
+EX,Data Engineer,135000,North America,100,North America,M
+SE,Data Scientist,170000,North America,100,North America,M
+SE,Data Scientist,123000,North America,100,North America,M
+SE,Machine Learning Engineer,189650,North America,0,North America,M
+SE,Machine Learning Engineer,164996,North America,0,North America,M
+MI,Data Engineer,54957,Europe,0,Europe,M
+MI,Data Engineer,54957,Europe,0,Europe,M
+EX,Manager,118187,North America,100,North America,S
+SE,Data Analyst,132000,North America,0,North America,M
+SE,Data Engineer,165400,North America,100,North America,M
+SE,Data Engineer,208775,North America,100,North America,M
+SE,Data Engineer,147800,North America,100,North America,M
+SE,Data Engineer,136994,North America,100,North America,M
+SE,Data Engineer,101570,North America,100,North America,M
+SE,Data Analyst,128875,North America,100,North America,M
+SE,Data Analyst,93700,North America,100,North America,M
+EX,Manager,79039,Asia,50,Asia,L
+SE,Data Engineer,132320,North America,100,North America,M
+EN,Machine Learning Engineer,37300,Europe,100,Europe,L
+SE,Data Analyst,164000,North America,0,North America,M
+SE,Data Engineer,155000,North America,100,North America,M
+MI,Machine Learning Engineer,124333,Europe,0,Europe,M
+MI,Machine Learning Engineer,98158,Europe,0,Europe,M
+MI,Research Scientist,120000,North America,0,North America,M
+SE,Data Analyst,112900,North America,100,North America,M
+SE,Data Analyst,90320,North America,100,North America,M
+SE,Manager,145000,North America,100,North America,M
+SE,Manager,105400,North America,100,North America,M
+MI,Machine Learning Engineer,87932,Europe,100,Europe,M
+MI,Data Engineer,117789,Europe,0,Europe,M
+SE,Data Scientist,215300,North America,100,North America,L
+SE,Data Scientist,158200,North America,100,North America,L
+SE,Data Engineer,209100,North America,100,North America,L
+SE,Data Engineer,154600,North America,100,North America,L
+SE,Data Analyst,115934,North America,0,North America,M
+SE,Data Analyst,81666,North America,0,North America,M
+SE,Data Engineer,175000,North America,100,North America,M
+MI,Data Engineer,98158,Europe,0,Europe,M
+MI,Data Analyst,58000,North America,0,North America,S
+SE,Data Engineer,183600,North America,100,North America,L
+MI,Data Analyst,52351,Europe,100,Europe,M
+SE,Data Scientist,180000,North America,100,North America,M
+MI,Data Scientist,71982,Europe,0,Europe,M
+MI,Data Scientist,45807,Europe,0,Europe,M
+MI,Data Engineer,65949,Europe,100,Europe,M
+MI,Data Engineer,49461,Europe,100,Europe,M
+MI,Data Engineer,78526,Europe,100,Europe,M
+MI,Data Engineer,58894,Europe,100,Europe,M
+SE,Data Scientist,260000,North America,100,North America,M
+SE,Data Scientist,60000,South America,100,North America,L
+MI,Data Engineer,63900,North America,0,North America,M
+MI,Machine Learning Engineer,160000,North America,100,North America,L
+MI,Machine Learning Engineer,112300,North America,100,North America,L
+MI,Manager,241000,North America,100,North America,M
+MI,Manager,159000,North America,100,North America,M
+SE,Data Scientist,180000,North America,0,North America,M
+SE,Data Scientist,80000,North America,0,North America,M
+MI,Data Engineer,82900,North America,0,North America,M
+SE,Data Engineer,100800,North America,100,North America,L
+MI,Data Engineer,49461,Europe,100,Europe,M
+SE,Data Scientist,140400,North America,0,North America,L
+MI,Data Analyst,39263,Europe,100,Europe,M
+MI,Data Analyst,43966,Europe,100,Europe,M
+MI,Data Analyst,32974,Europe,100,Europe,M
+MI,Data Engineer,87932,Europe,100,Europe,M
+MI,Data Engineer,76940,Europe,100,Europe,M
+MI,Data Engineer,104702,Europe,100,Europe,M
+MI,Data Engineer,91614,Europe,100,Europe,M
+MI,Data Engineer,65949,Europe,100,Europe,M
+MI,Data Engineer,87932,Europe,100,Europe,M
+SE,Machine Learning Engineer,189650,North America,0,North America,M
+SE,Machine Learning Engineer,164996,North America,0,North America,M
+MI,Data Analyst,43966,Europe,100,Europe,M
+MI,Data Analyst,32974,Europe,100,Europe,M
+MI,Data Engineer,98158,Europe,100,Europe,M
+MI,Data Engineer,78526,Europe,100,Europe,M
+SE,Data Scientist,215300,North America,0,North America,L
+MI,Data Engineer,76940,Europe,100,Europe,M
+SE,Data Engineer,209100,North America,100,North America,L
+SE,Data Engineer,154600,North America,100,North America,L
+SE,Data Engineer,180000,North America,100,North America,M
+EN,Machine Learning Engineer,21983,Europe,100,Europe,L
+SE,Data Engineer,80000,North America,100,North America,M
+MI,Machine Learning Engineer,78791,North America,100,North America,M
+EX,Manager,196979,North America,50,North America,L
+MI,Machine Learning Engineer,120000,North America,100,North America,S
+EN,Computer Vision,125000,North America,0,North America,M
+MI,Machine Learning Engineer,37236,North America,50,North America,L
+SE,Data Engineer,105000,North America,100,North America,M
+SE,Manager,87932,Europe,0,Europe,M
+MI,Data Analyst,18442,Asia,100,Asia,M
+MI,Data Scientist,31615,Asia,100,Asia,L
+MI,Machine Learning Engineer,58255,Europe,50,Europe,L
+EN,Data Analyst,100000,North America,50,North America,L
+MI,Data Engineer,54957,Europe,50,Europe,L
+EN,Data Scientist,18442,Asia,100,Asia,M
+SE,Data Scientist,162674,Europe,100,Europe,M
+EN,Data Engineer,120000,North America,100,North America,M
+SE,Research Scientist,144000,North America,50,North America,L
+SE,Data Scientist,104890,North America,100,North America,M
+SE,Data Engineer,100000,North America,100,North America,M
+SE,Data Scientist,140000,North America,100,North America,M
+MI,Data Analyst,135000,North America,100,North America,M
+MI,Data Analyst,50000,North America,100,North America,M
+SE,Data Scientist,220000,North America,100,North America,M
+SE,Data Scientist,140000,North America,100,North America,M
+MI,Data Scientist,183228,Europe,0,Europe,M
+MI,Data Scientist,91614,Europe,0,Europe,M
+SE,Data Scientist,185100,North America,100,North America,M
+SE,Machine Learning Engineer,220000,North America,100,North America,M
+MI,Data Scientist,200000,North America,100,North America,M
+MI,Data Scientist,120000,North America,100,North America,M
+SE,Machine Learning Engineer,120000,Asia,100,Asia,S
+SE,Machine Learning Engineer,65000,Asia,100,Asia,S
+EX,Data Engineer,216000,North America,100,North America,M
+SE,Data Engineer,210000,North America,100,North America,M
+SE,Machine Learning Engineer,120000,North America,100,North America,M
+SE,Data Scientist,230000,North America,100,North America,M
+EN,Data Scientist,100000,Africa,50,Africa,M
+MI,Data Scientist,100000,North America,100,North America,M
+EN,Machine Learning Engineer,31875,Africa,100,Europe,M
+SE,Manager,200000,Asia,100,North America,M
+MI,Data Analyst,75000,North America,100,North America,S
+MI,Data Scientist,35590,Europe,100,Europe,L
+SE,Machine Learning Engineer,78791,North America,100,North America,M
+SE,Data Scientist,100000,South America,100,North America,M
+MI,Machine Learning Engineer,153000,North America,50,North America,M
+EN,Data Engineer,58035,Asia,100,Europe,M
+SE,Data Scientist,165000,North America,100,North America,M
+SE,Research Scientist,93427,Europe,50,Europe,L
+EN,Data Scientist,52396,North America,100,North America,L
+SE,Machine Learning Engineer,62651,Europe,100,Europe,L
+MI,Manager,32974,Europe,100,Europe,S
+EN,Data Scientist,40000,Asia,100,Asia,L
+MI,Machine Learning Engineer,87425,Oceania,100,Oceania,L
+SE,Data Engineer,115000,North America,100,North America,M
+EN,Data Scientist,86703,Oceania,50,Oceania,M
+MI,Machine Learning Engineer,75000,South America,100,North America,L
+MI,Research Scientist,64849,Europe,0,Europe,L
+EN,Research Scientist,120000,North America,100,North America,L
+MI,Data Scientist,157000,North America,100,North America,L
+EN,Computer Vision,150000,Oceania,100,Oceania,S
+MI,Data Analyst,70912,North America,50,North America,L
+EN,Data Engineer,65000,North America,100,North America,S
+SE,Machine Learning Engineer,71444,Europe,100,Europe,S
+EN,Data Engineer,20000,Asia,0,Asia,M
+MI,Data Scientist,48000,Europe,100,North America,S
+SE,Manager,152500,North America,100,North America,M
+MI,Data Engineer,68147,Europe,100,Europe,M
+MI,Data Scientist,122346,Europe,0,Europe,L
+MI,Data Scientist,69336,North America,100,North America,M
+EN,Computer Vision,10000,Europe,100,Europe,M
+MI,Data Analyst,20000,Europe,100,Europe,S
+MI,Data Scientist,135000,North America,100,North America,L
+SE,Data Scientist,177000,North America,100,North America,L
+MI,Data Scientist,78000,North America,100,North America,M
+SE,Data Analyst,135000,North America,100,North America,M
+SE,Data Analyst,100000,North America,100,North America,M
+SE,Data Analyst,90320,North America,100,North America,M
+MI,Data Analyst,85000,North America,0,North America,M
+MI,Data Analyst,75000,North America,0,North America,M
+SE,Machine Learning Engineer,214000,North America,100,North America,M
+SE,Machine Learning Engineer,192600,North America,100,North America,M
+SE,Data Engineer,266400,North America,100,North America,M
+SE,Data Engineer,213120,North America,100,North America,M
+SE,Data Analyst,112900,North America,100,North America,M
+SE,Data Engineer,155000,North America,100,North America,M
+MI,Data Scientist,141300,North America,0,North America,M
+MI,Data Scientist,102100,North America,0,North America,M
+SE,Data Analyst,115934,North America,100,North America,M
+SE,Data Analyst,81666,North America,100,North America,M
+MI,Data Engineer,206699,North America,0,North America,M
+MI,Data Engineer,99100,North America,0,North America,M
+SE,Data Engineer,130000,North America,100,North America,M
+SE,Data Engineer,115000,North America,100,North America,M
+SE,Data Engineer,110500,North America,100,North America,M
+SE,Data Engineer,130000,North America,100,North America,M
+SE,Data Analyst,99050,North America,100,North America,M
+SE,Data Engineer,160000,North America,100,North America,M
+SE,Data Scientist,205300,North America,0,North America,L
+SE,Data Scientist,140400,North America,0,North America,L
+SE,Data Scientist,176000,North America,100,North America,M
+SE,Data Scientist,144000,North America,100,North America,M
+SE,Data Engineer,200100,North America,100,North America,M
+SE,Data Engineer,160000,North America,100,North America,M
+SE,Data Engineer,145000,North America,100,North America,M
+SE,Data Engineer,70500,North America,0,North America,M
+SE,Data Scientist,205300,North America,0,North America,M
+SE,Data Scientist,140400,North America,0,North America,M
+SE,Data Engineer,205300,North America,0,North America,M
+SE,Data Engineer,184700,North America,0,North America,M
+SE,Data Engineer,175100,North America,100,North America,M
+SE,Data Engineer,140250,North America,100,North America,M
+SE,Data Analyst,116150,North America,100,North America,M
+SE,Data Engineer,54000,North America,0,North America,M
+SE,Data Analyst,170000,North America,100,North America,M
+MI,Data Analyst,65438,Europe,0,Europe,M
+SE,Data Analyst,80000,North America,100,North America,M
+SE,Data Scientist,140000,North America,100,North America,M
+SE,Data Scientist,210000,North America,100,North America,M
+SE,Data Scientist,140000,North America,100,North America,M
+SE,Data Analyst,100000,North America,100,North America,M
+SE,Data Analyst,69000,North America,100,North America,M
+SE,Data Scientist,210000,North America,100,North America,M
+SE,Data Scientist,140000,North America,100,North America,M
+SE,Data Scientist,210000,North America,100,North America,M
+SE,Data Analyst,150075,North America,100,North America,M
+SE,Data Engineer,100000,North America,100,North America,M
+SE,Data Engineer,25000,North America,100,North America,M
+SE,Data Analyst,126500,North America,100,North America,M
+SE,Data Analyst,106260,North America,100,North America,M
+SE,Data Engineer,220110,North America,100,North America,M
+SE,Data Engineer,160080,North America,100,North America,M
+SE,Data Analyst,105000,North America,100,North America,M
+SE,Data Analyst,110925,North America,100,North America,M
+MI,Data Analyst,45807,Europe,0,Europe,M
+SE,Data Scientist,140000,North America,100,North America,M
+SE,Data Analyst,99000,North America,0,North America,M
+SE,Data Analyst,60000,North America,100,North America,M
+SE,Data Engineer,192564,North America,100,North America,M
+SE,Data Engineer,144854,North America,100,North America,M
+SE,Data Scientist,230000,North America,100,North America,M
+SE,Data Scientist,150000,North America,100,North America,M
+SE,Manager,150260,North America,100,North America,M
+SE,Manager,109280,North America,100,North America,M
+SE,Data Scientist,210000,North America,100,North America,M
+SE,Data Analyst,170000,North America,100,North America,M
+MI,Data Scientist,160000,North America,100,North America,M
+MI,Data Scientist,130000,North America,100,North America,M
+EN,Data Analyst,67000,North America,0,North America,M
+EN,Data Analyst,52000,North America,0,North America,M
+SE,Data Engineer,154000,North America,100,North America,M
+SE,Data Engineer,126000,North America,100,North America,M
+SE,Data Analyst,129000,North America,0,North America,M
+SE,Data Analyst,150000,North America,100,North America,M
+MI,Research Scientist,200000,Asia,100,North America,L
